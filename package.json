@@ -1,0 +1,15 @@
+{
+  "name": "httpclient",
+  "version": "1.0.0",
+  "description": "http client with enhanced caching and mocking abilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jaroslav Oswald",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.20",
+    "redux": "^4.0.5"
+  }
+}
